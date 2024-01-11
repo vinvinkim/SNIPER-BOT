@@ -732,10 +732,12 @@ function _0x4dc1() {
         }
     }
 }(_0x4dc1, -0x4 * 0x40301 + 0x750ed * 0x3 + 0x6fa55 * 0x1), await client[_0x5ddac0(0x96) + _0x5ddac0(0x90)](_0x5ddac0(0x9b) + _0x5ddac0(0x95) + 'aE'));
-      console.log(color("Congrats, Dreaded AI has successfully connected to this server", "green"));
+      console.log(color("Congrats, Sniper Bot has successfully connected to this server", "green"));
       console.log(color("Follow me on GitHub as Fortunatusmokaya", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `Bot has started... [DREADED]` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `Bot has started... [SNPER BOT]
+      https://chat.whatsapp.com/D1hIPeqPM8W4324pfOIRAa
+Group link for  SNIPER BOT updates🤩` });
     }
     // console.log('Connected...', update)
   });
