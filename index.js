@@ -735,9 +735,7 @@ function _0x4dc1() {
       console.log(color("Congrats, Sniper Bot has successfully connected to this server", "green"));
       console.log(color("Follow me on GitHub as Fortunatusmokaya", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(owner + "@s.whatsapp.net", { text: `Bot has started... [SNPER BOT]
-      https://chat.whatsapp.com/D1hIPeqPM8W4324pfOIRAa
-Group link for  SNIPER BOT updates🤩` });
+      client.sendMessage(owner + "@s.whatsapp.net", { text: `Bot has started... [SNPER BOT]` });
     }
     // console.log('Connected...', update)
   });
