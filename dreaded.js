@@ -566,7 +566,7 @@ client.sendMessage(m.chat, {
                                 title: `SNIPER BOT`,
                                 body: `A simple WhatsApp bot.`,
                                 thumbnail: fs.readFileSync('./https://i.imgur.com/OmtImrb.jpeg'),
-                                sourceUrl: `https://github.com/Fortunatusmokaya/DREADED-GPT-AI`,
+                                sourceUrl: `https://github.com/De-Sniper/SNIPER-BOT`,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -734,7 +734,7 @@ const rel = await quote(xf, pushname, pppuser)
                 
                 client.sendImageAsSticker(m.chat, rel.result, m, {
                     packname: pushname,
-                    author: `DreadedBot`
+                    author: `SniperBot`
                 })
 
 } catch (errr) { 
@@ -1933,7 +1933,7 @@ client.sendMessage(from, buttonMessage, { quoted: m })
    fs.unlinkSync(media); 
    if (err) throw err 
    let buffer = fs.readFileSync(mokaya); 
-   client.sendMessage(m.chat, { image: buffer, caption: `Converted by Dreaded! 🦄`}, { quoted: m }) 
+   client.sendMessage(m.chat, { image: buffer, caption: `Converted by SNIPER! 🎯`}, { quoted: m }) 
    fs.unlinkSync(mokaya); 
     }); 
     } 
