@@ -176,7 +176,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `SNIPER BOT🎯Leave my bio🥱see my personality 🔥🌚\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}🎯
+                                         `🎯Leave my bio🥱see my personality 🔥Sniper Bot🌚\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}🎯
 ` 
 
                                  ) 
